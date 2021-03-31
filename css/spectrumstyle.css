@@ -1,0 +1,58 @@
+h1{
+    
+    font-family: 'Chango', cursive;
+    text-align: center;
+}
+
+.container {
+   
+    width: 100%;
+    height: 500px;
+    display: flex;
+    background-color:blue ;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.section{
+    background-color: violet;
+    top: 20%;
+    width: 150px;
+    height: 350px;
+    border: white 2px solid;
+}
+    
+}
+
+/*.section1{
+    background-color: teal;
+    position: absolute;
+    left:300px ;
+}
+
+.section2{
+    background-color: blue;
+    position: absolute;
+    left: 500px;
+}
+
+.section3{
+    background-color: rgb(75, 40, 67);
+    position: absolute;
+    left: 700px;
+}
+
+.section4{
+    background-color: rgb(97, 145, 22);
+    position: absolute;
+    left: 900px;
+}
+
+.section5{
+    background-color: rgb(209, 27, 27);
+    position: absolute;
+    left: 1100px;
+}
+/*

@@ -1,0 +1,19 @@
+body{
+    background-color : black;
+
+}
+div{
+    width: 30%;
+    color: white;
+    height: 400px;
+    float: left;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+
+}
+.first{
+    color: red;
+}
